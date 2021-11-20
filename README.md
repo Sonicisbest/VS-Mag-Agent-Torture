@@ -1,1 +1,1 @@
-# This will be my new source for porting mods into friday night funkin
+# After the events of tricky, we're met with an unpleasent suprise 
