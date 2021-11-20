@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="GF_boombox_ass_sets.png">
+<TextureAtlas imagePath="GF_assets.png">
 	<!-- Created with Adobe Animate version 20.0.2.22168 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="GF Dancing Beat0000" x="0" y="0" width="489" height="748" frameX="0" frameY="-2" frameWidth="514" frameHeight="750"/>
