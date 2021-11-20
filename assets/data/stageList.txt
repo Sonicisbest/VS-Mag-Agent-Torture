@@ -1,4 +1,8 @@
 stage
-nevada
-nevada-spook
-auditor-hell
+halloween
+philly
+limo
+mall
+mallEvil
+school
+schoolEvil
