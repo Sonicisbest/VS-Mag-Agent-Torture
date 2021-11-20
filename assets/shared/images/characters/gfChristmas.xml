@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="GF_assets_scared.png">
+<TextureAtlas imagePath="gfChristmas.png">
 	<!-- Created with Adobe Animate version 21.0.5.40714 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="GF Dancing Beat0000" x="0" y="0" width="383" height="365" frameX="0" frameY="-9" frameWidth="409" frameHeight="374"/>
