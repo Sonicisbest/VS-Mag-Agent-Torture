@@ -1,1 +1,1 @@
-# After the events of tricky, we're met with an unpleasent suprise 
+# After the events of Tricky, we're met with an unpleasent suprise 
